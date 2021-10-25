@@ -17,7 +17,7 @@ data['objects'] = []
 
 # Initialize the parameters
 confThreshold = 0.73  #Confidence threshold
-nmsThreshold = 0.83   #Non-maximum suppression threshold
+nmsThreshold = 0.3   #Non-maximum suppression threshold
 inpWidth = 416      #Width of network's input image
 inpHeight = 416     #Height of network's input image
 
